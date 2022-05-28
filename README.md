@@ -4,7 +4,7 @@
   findViewById物件抓取
   UIButton的應用
   text的設定
-  setOnClickListener監聽運用  
+  setOnClickListener監聽運用
   
 ##APP功能介紹
 點擊PUSHME開始計數
